@@ -52,8 +52,8 @@ Cross-Regional-Seismic-Event-Classification/
 ├── DSAN/
 ├── FT/
 ├── target_label_ratio_analysis/
-├── performance_visualization/
 ├── STFT_visualization/
+├── DA_ACC_Macro_analysis/
 ├── region_visualization/
 ├── magnitude_recall_analysis/
 └── negative_transfer_analysis/
