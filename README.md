@@ -47,15 +47,16 @@ The repository structure and implementation details will be updated when the sou
 
 ```text
 Cross-Regional-Seismic-Event-Classification/
-├── README.md
-├── train_DANN.py
-├── train_DAN.py
-├── train_DSAN.py
-├── finetune.py
-├── model.py
-├── dataset.py
-├── preprocessing.py
-└── evaluation.py
+├── DAN/
+├── DANN/
+├── DSAN/
+├── FT/
+├── target_label_ratio_analysis/
+├── performance_visualization/
+├── STFT_visualization/
+├── region_visualization/
+├── magnitude_recall_analysis/
+└── negative_transfer_analysis/
 ```
 
 ## Code Availability
