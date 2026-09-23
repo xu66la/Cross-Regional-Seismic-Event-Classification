@@ -47,11 +47,13 @@ The repository is organized as follows:
 
 ```text
 Cross-Regional-Seismic-Event-Classification/
-├── DAN/
 ├── README.md
-├── DANN/
-├── DSAN/
+├── LICENSE
+├── requirements.txt
 ├── FT/
+├── DANN/
+├── DAN/
+├── DSAN/
 ├── target_label_ratio_analysis/
 ├── STFT_visualization/
 ├── DA_ACC_Macro_analysis/
