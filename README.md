@@ -43,11 +43,12 @@ The workflow includes:
 
 ## Repository Structure
 
-The repository structure and implementation details will be updated when the source code is released.
+The repository is organized as follows:
 
 ```text
 Cross-Regional-Seismic-Event-Classification/
 ├── DAN/
+├── README.md
 ├── DANN/
 ├── DSAN/
 ├── FT/
@@ -61,7 +62,7 @@ Cross-Regional-Seismic-Event-Classification/
 
 ## Code Availability
 
-The source code used in this study is currently being organized and will be made publicly available in this repository.
+The source code used in this study is publicly available in this repository.
 
 ## Citation
 
